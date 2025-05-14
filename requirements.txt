@@ -1,0 +1,6 @@
+gradio
+fastai
+torch
+torchvision
+matplotlib
+Pillow
